@@ -1,0 +1,15 @@
+html{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif,"メイリオ";
+}
+
+header {
+    background-color: lightskyblue;
+}
+
+header li {
+    list-style: none;
+}
+
+.hide {
+    hide;
+}
