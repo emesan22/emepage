@@ -87,6 +87,10 @@ header  {
   margin: 10px auto;
   width:80%;
   font-size:45px;
+  text-align: center;
 }
 
+.main-message p {
+  font-size: 18px;
+}
 
