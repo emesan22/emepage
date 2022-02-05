@@ -4,6 +4,7 @@ html{
 
 body {
     margin: 0px;
+    
 }
 
 header  {
@@ -12,6 +13,10 @@ header  {
     background-color: rgba(34, 49, 52, 0.9);
     top: 0;
     z-index: 10;
+}
+
+#logo {
+  border-radius:50%;
 }
 
 .main-top {
